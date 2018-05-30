@@ -1,4 +1,4 @@
-baseurl         = "https://example.juliiancowell.com"
+baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "juliancowell"
