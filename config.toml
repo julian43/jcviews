@@ -1,7 +1,7 @@
-baseurl         = "httos://example.juliiancowell.com"
+baseurl         = "https://example.juliiancowell.com"
 theme           = "casper-two"
 languageCode    = "en-US"
-disqusShortname = ""
+disqusShortname = "juliancowell"
 paginate        = 6
 #SectionPagesMenu = "main"
 
@@ -22,7 +22,7 @@ paginate        = 6
   linkedinName = "julian-cowell-624a40129"
 
   logo = ""
-  orgName = "EM"
+  orgName = "SF"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
 
