@@ -1,4 +1,4 @@
-baseurl         = "httos://example.juliiancowell.com"
+baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -6,31 +6,30 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Example Site"
-  subtitle    = "My Awesome Site"
+  title       = "Hugo Casper Two"
+  subtitle    = "Port of Casper 2.x for Hugo"
 
-  cover       = "img/header.jpg"
-  description = "Julian's Awesome Website"
+  cover       = "img/blog-cover.jpg"
+  description = "Here is a description of your site."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  twitterName = "khing_julian"
-  fbName = "mackbolan"
-  githubName = "julian43"
-  linkedinName = "julian-cowell-624a40129"
+  twitterName = "faketryghost"
+  fbName = "fakeghost"
+  githubName = "eueung"
 
-  logo = ""
+  logo = "hugo-logo.png"
   orgName = "EM"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
 
-  author = "Julian Cowell"
-  authorAvatar = "img/jprofile.jpg"
-  authorLocation = "Kingston, Jamaica"
-  authorWebsite = "https://dookoonu.com"
-  authorDescription = "Math Guy, Coder."
+  author = "EM"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Describe yourself.."
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -41,21 +40,21 @@ paginate        = 6
   post = "/:slug/"
 
 [[menu.main]]
-  name = "Main"
+  name = "Home"
   url = "/"
   weight = 200
 
 [[menu.main]]
-  name = "Project"
-  url = "/tags/project/"
+  name = "Go"
+  url = "/tags/golang/"
   weight = 100
 
 [[menu.main]]
-  name = "My Life"
-  url = "/categories/life/"
+  name = "Food"
+  url = "/categories/food/"
   weight = 99
 
 [[menu.main]]
-  name = "Google"
+  name = "External"
   url = "https://google.com/"
   weight = 95
